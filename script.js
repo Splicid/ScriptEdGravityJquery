@@ -1,3 +1,6 @@
+$(document).ready(function(){
+    
+
 var $pic = $("#pic"); 
 
 
@@ -40,6 +43,7 @@ var $pic = $("#pic");
     
     console.log("Luis sucks",$pic.position().top);
     
+
     
     
     
@@ -50,4 +54,4 @@ var $pic = $("#pic");
     
     
     
-    
+});
